@@ -1,0 +1,1797 @@
+1.80 0.97 0.88 1.96 4.01 4.69 8.16 2.82 5.82 3.02 7.23 9.90 1.35 0.46 9.47 9.02 8.49 9.28 9.13 6.63 6.90 4.94 9.36 6.84 1.09 
+pitch = 512
+pitch = 512
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 17, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 18, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 25, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 21, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 11, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 26, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 27, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 22, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 23, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 19, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 20, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 14, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 15, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 7, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 10, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 4, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 3, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 9, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 12, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 13, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 24, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 5, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 6, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 1, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 2, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 16, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 8, threadIdxX = 31
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 0
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 1
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 2
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 3
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 4
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 5
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 6
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 7
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 8
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 9
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 10
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 11
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 12
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 13
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 14
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 15
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 16
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 17
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 18
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 19
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 20
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 21
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 22
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 23
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 24
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 25
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 26
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 27
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 28
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 29
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 30
+blockIdxY = 0, blockIdxX = 0, threadIdxY = 0, threadIdxX = 31
+row_o = 17, col_o = 28
+row_o = 17, col_o = 29
+row_o = 17, col_o = 30
+row_o = 17, col_o = 31
+row_o = 18, col_o = 0
+row_o = 18, col_o = 1
+row_o = 18, col_o = 2
+row_o = 18, col_o = 3
+row_o = 18, col_o = 4
+row_o = 18, col_o = 5
+row_o = 18, col_o = 6
+row_o = 18, col_o = 7
+row_o = 18, col_o = 8
+row_o = 18, col_o = 9
+row_o = 18, col_o = 10
+row_o = 18, col_o = 11
+row_o = 18, col_o = 12
+row_o = 18, col_o = 13
+row_o = 18, col_o = 14
+row_o = 18, col_o = 15
+row_o = 18, col_o = 16
+row_o = 18, col_o = 17
+row_o = 18, col_o = 18
+row_o = 18, col_o = 19
+row_o = 18, col_o = 20
+row_o = 18, col_o = 21
+row_o = 18, col_o = 22
+row_o = 18, col_o = 23
+row_o = 26, col_o = 24
+row_o = 26, col_o = 25
+row_o = 26, col_o = 26
+row_o = 26, col_o = 27
+row_o = 26, col_o = 28
+row_o = 26, col_o = 29
+row_o = 26, col_o = 30
+row_o = 26, col_o = 31
+row_o = 27, col_o = 0
+row_o = 27, col_o = 1
+row_o = 27, col_o = 2
+row_o = 27, col_o = 3
+row_o = 27, col_o = 4
+row_o = 27, col_o = 5
+row_o = 27, col_o = 6
+row_o = 27, col_o = 7
+row_o = 27, col_o = 8
+row_o = 27, col_o = 9
+row_o = 27, col_o = 10
+row_o = 27, col_o = 11
+row_o = 27, col_o = 12
+row_o = 27, col_o = 13
+row_o = 27, col_o = 14
+row_o = 27, col_o = 15
+row_o = 27, col_o = 16
+row_o = 27, col_o = 17
+row_o = 27, col_o = 18
+row_o = 27, col_o = 19
+row_o = 16, col_o = 0
+row_o = 16, col_o = 1
+row_o = 16, col_o = 2
+row_o = 16, col_o = 3
+row_o = 16, col_o = 4
+row_o = 16, col_o = 5
+row_o = 16, col_o = 6
+row_o = 16, col_o = 7
+row_o = 16, col_o = 8
+row_o = 16, col_o = 9
+row_o = 16, col_o = 10
+row_o = 16, col_o = 11
+row_o = 16, col_o = 12
+row_o = 16, col_o = 13
+row_o = 16, col_o = 14
+row_o = 16, col_o = 15
+row_o = 16, col_o = 16
+row_o = 16, col_o = 17
+row_o = 16, col_o = 18
+row_o = 16, col_o = 19
+row_o = 16, col_o = 20
+row_o = 16, col_o = 21
+row_o = 16, col_o = 22
+row_o = 16, col_o = 23
+row_o = 16, col_o = 24
+row_o = 16, col_o = 25
+row_o = 16, col_o = 26
+row_o = 16, col_o = 27
+row_o = 16, col_o = 28
+row_o = 16, col_o = 29
+row_o = 16, col_o = 30
+row_o = 16, col_o = 31
+row_o = 8, col_o = 0
+row_o = 8, col_o = 1
+row_o = 8, col_o = 2
+row_o = 8, col_o = 3
+row_o = 8, col_o = 4
+row_o = 8, col_o = 5
+row_o = 8, col_o = 6
+row_o = 8, col_o = 7
+row_o = 8, col_o = 8
+row_o = 8, col_o = 9
+row_o = 8, col_o = 10
+row_o = 8, col_o = 11
+row_o = 8, col_o = 12
+row_o = 8, col_o = 13
+row_o = 8, col_o = 14
+row_o = 8, col_o = 15
+row_o = 8, col_o = 16
+row_o = 8, col_o = 17
+row_o = 8, col_o = 18
+row_o = 8, col_o = 19
+row_o = 8, col_o = 20
+row_o = 8, col_o = 21
+row_o = 8, col_o = 22
+row_o = 8, col_o = 23
+row_o = 8, col_o = 24
+row_o = 8, col_o = 25
+row_o = 8, col_o = 26
+row_o = 8, col_o = 27
+row_o = 8, col_o = 28
+row_o = 8, col_o = 29
+row_o = 8, col_o = 30
+row_o = 8, col_o = 31
+row_o = 15, col_o = 4
+row_o = 15, col_o = 5
+row_o = 15, col_o = 6
+row_o = 15, col_o = 7
+row_o = 15, col_o = 8
+row_o = 15, col_o = 9
+row_o = 15, col_o = 10
+row_o = 15, col_o = 11
+row_o = 15, col_o = 12
+row_o = 15, col_o = 13
+row_o = 15, col_o = 14
+row_o = 15, col_o = 15
+row_o = 15, col_o = 16
+row_o = 15, col_o = 17
+row_o = 15, col_o = 18
+row_o = 15, col_o = 19
+row_o = 15, col_o = 20
+row_o = 15, col_o = 21
+row_o = 15, col_o = 22
+row_o = 15, col_o = 23
+row_o = 15, col_o = 24
+row_o = 15, col_o = 25
+row_o = 15, col_o = 26
+row_o = 15, col_o = 27
+row_o = 15, col_o = 28
+row_o = 15, col_o = 29
+row_o = 15, col_o = 30
+row_o = 15, col_o = 31
+row_o = 10, col_o = 24
+row_o = 10, col_o = 25
+row_o = 10, col_o = 26
+row_o = 10, col_o = 27
+row_o = 10, col_o = 28
+row_o = 10, col_o = 29
+row_o = 10, col_o = 30
+row_o = 10, col_o = 31
+row_o = 11, col_o = 0
+row_o = 11, col_o = 1
+row_o = 11, col_o = 2
+row_o = 11, col_o = 3
+row_o = 11, col_o = 4
+row_o = 11, col_o = 5
+row_o = 11, col_o = 6
+row_o = 11, col_o = 7
+row_o = 11, col_o = 8
+row_o = 11, col_o = 9
+row_o = 11, col_o = 10
+row_o = 11, col_o = 11
+row_o = 11, col_o = 12
+row_o = 11, col_o = 13
+row_o = 11, col_o = 14
+row_o = 11, col_o = 15
+row_o = 11, col_o = 16
+row_o = 11, col_o = 17
+row_o = 11, col_o = 18
+row_o = 11, col_o = 19
+row_o = 23, col_o = 4
+row_o = 23, col_o = 5
+row_o = 23, col_o = 6
+row_o = 23, col_o = 7
+row_o = 23, col_o = 8
+row_o = 23, col_o = 9
+row_o = 23, col_o = 10
+row_o = 23, col_o = 11
+row_o = 23, col_o = 12
+row_o = 23, col_o = 13
+row_o = 23, col_o = 14
+row_o = 23, col_o = 15
+row_o = 23, col_o = 16
+row_o = 23, col_o = 17
+row_o = 23, col_o = 18
+row_o = 23, col_o = 19
+row_o = 23, col_o = 20
+row_o = 23, col_o = 21
+row_o = 23, col_o = 22
+row_o = 23, col_o = 23
+row_o = 23, col_o = 24
+row_o = 23, col_o = 25
+row_o = 23, col_o = 26
+row_o = 23, col_o = 27
+row_o = 23, col_o = 28
+row_o = 23, col_o = 29
+row_o = 23, col_o = 30
+row_o = 23, col_o = 31
+row_o = 19, col_o = 20
+row_o = 19, col_o = 21
+row_o = 19, col_o = 22
+row_o = 19, col_o = 23
+row_o = 19, col_o = 24
+row_o = 19, col_o = 25
+row_o = 19, col_o = 26
+row_o = 19, col_o = 27
+row_o = 19, col_o = 28
+row_o = 19, col_o = 29
+row_o = 19, col_o = 30
+row_o = 19, col_o = 31
+row_o = 20, col_o = 0
+row_o = 20, col_o = 1
+row_o = 20, col_o = 2
+row_o = 20, col_o = 3
+row_o = 20, col_o = 4
+row_o = 20, col_o = 5
+row_o = 20, col_o = 6
+row_o = 20, col_o = 7
+row_o = 20, col_o = 8
+row_o = 20, col_o = 9
+row_o = 20, col_o = 10
+row_o = 20, col_o = 11
+row_o = 20, col_o = 12
+row_o = 20, col_o = 13
+row_o = 20, col_o = 14
+row_o = 20, col_o = 15
+row_o = 1, col_o = 28
+row_o = 1, col_o = 29
+row_o = 1, col_o = 30
+row_o = 1, col_o = 31
+row_o = 2, col_o = 0
+row_o = 2, col_o = 1
+row_o = 2, col_o = 2
+row_o = 2, col_o = 3
+row_o = 2, col_o = 4
+row_o = 2, col_o = 5
+row_o = 2, col_o = 6
+row_o = 2, col_o = 7
+row_o = 2, col_o = 8
+row_o = 2, col_o = 9
+row_o = 2, col_o = 10
+row_o = 2, col_o = 11
+row_o = 2, col_o = 12
+row_o = 2, col_o = 13
+row_o = 2, col_o = 14
+row_o = 2, col_o = 15
+row_o = 2, col_o = 16
+row_o = 2, col_o = 17
+row_o = 2, col_o = 18
+row_o = 2, col_o = 19
+row_o = 2, col_o = 20
+row_o = 2, col_o = 21
+row_o = 2, col_o = 22
+row_o = 2, col_o = 23
+row_o = 9, col_o = 28
+row_o = 9, col_o = 29
+row_o = 9, col_o = 30
+row_o = 9, col_o = 31
+row_o = 10, col_o = 0
+row_o = 10, col_o = 1
+row_o = 10, col_o = 2
+row_o = 10, col_o = 3
+row_o = 10, col_o = 4
+row_o = 10, col_o = 5
+row_o = 10, col_o = 6
+row_o = 10, col_o = 7
+row_o = 10, col_o = 8
+row_o = 10, col_o = 9
+row_o = 10, col_o = 10
+row_o = 10, col_o = 11
+row_o = 10, col_o = 12
+row_o = 10, col_o = 13
+row_o = 10, col_o = 14
+row_o = 10, col_o = 15
+row_o = 10, col_o = 16
+row_o = 10, col_o = 17
+row_o = 10, col_o = 18
+row_o = 10, col_o = 19
+row_o = 10, col_o = 20
+row_o = 10, col_o = 21
+row_o = 10, col_o = 22
+row_o = 10, col_o = 23
+row_o = 12, col_o = 16
+row_o = 12, col_o = 17
+row_o = 12, col_o = 18
+row_o = 12, col_o = 19
+row_o = 12, col_o = 20
+row_o = 12, col_o = 21
+row_o = 12, col_o = 22
+row_o = 12, col_o = 23
+row_o = 12, col_o = 24
+row_o = 12, col_o = 25
+row_o = 12, col_o = 26
+row_o = 12, col_o = 27
+row_o = 12, col_o = 28
+row_o = 12, col_o = 29
+row_o = 12, col_o = 30
+row_o = 12, col_o = 31
+row_o = 13, col_o = 0
+row_o = 13, col_o = 1
+row_o = 13, col_o = 2
+row_o = 13, col_o = 3
+row_o = 13, col_o = 4
+row_o = 13, col_o = 5
+row_o = 13, col_o = 6
+row_o = 13, col_o = 7
+row_o = 13, col_o = 8
+row_o = 13, col_o = 9
+row_o = 13, col_o = 10
+row_o = 13, col_o = 11
+row_o = 0, col_o = 0
+row_o = 0, col_o = 1
+row_o = 0, col_o = 2
+row_o = 0, col_o = 3
+row_o = 0, col_o = 4
+row_o = 0, col_o = 5
+row_o = 0, col_o = 6
+row_o = 0, col_o = 7
+row_o = 0, col_o = 8
+row_o = 0, col_o = 9
+row_o = 0, col_o = 10
+row_o = 0, col_o = 11
+row_o = 0, col_o = 12
+row_o = 0, col_o = 13
+row_o = 0, col_o = 14
+row_o = 0, col_o = 15
+row_o = 0, col_o = 16
+row_o = 0, col_o = 17
+row_o = 0, col_o = 18
+row_o = 0, col_o = 19
+row_o = 0, col_o = 20
+row_o = 0, col_o = 21
+row_o = 0, col_o = 22
+row_o = 0, col_o = 23
+row_o = 0, col_o = 24
+row_o = 0, col_o = 25
+row_o = 0, col_o = 26
+row_o = 0, col_o = 27
+row_o = 0, col_o = 28
+row_o = 0, col_o = 29
+row_o = 0, col_o = 30
+row_o = 0, col_o = 31
+row_o = 25, col_o = 0
+row_o = 25, col_o = 1
+row_o = 25, col_o = 2
+row_o = 25, col_o = 3
+row_o = 25, col_o = 4
+row_o = 25, col_o = 5
+row_o = 25, col_o = 6
+row_o = 25, col_o = 7
+row_o = 25, col_o = 8
+row_o = 25, col_o = 9
+row_o = 25, col_o = 10
+row_o = 25, col_o = 11
+row_o = 25, col_o = 12
+row_o = 25, col_o = 13
+row_o = 25, col_o = 14
+row_o = 25, col_o = 15
+row_o = 25, col_o = 16
+row_o = 25, col_o = 17
+row_o = 25, col_o = 18
+row_o = 25, col_o = 19
+row_o = 25, col_o = 20
+row_o = 25, col_o = 21
+row_o = 25, col_o = 22
+row_o = 25, col_o = 23
+row_o = 25, col_o = 24
+row_o = 25, col_o = 25
+row_o = 25, col_o = 26
+row_o = 25, col_o = 27
+row_o = 21, col_o = 12
+row_o = 21, col_o = 13
+row_o = 21, col_o = 14
+row_o = 21, col_o = 15
+row_o = 21, col_o = 16
+row_o = 21, col_o = 17
+row_o = 21, col_o = 18
+row_o = 21, col_o = 19
+row_o = 21, col_o = 20
+row_o = 21, col_o = 21
+row_o = 21, col_o = 22
+row_o = 21, col_o = 23
+row_o = 21, col_o = 24
+row_o = 21, col_o = 25
+row_o = 21, col_o = 26
+row_o = 21, col_o = 27
+row_o = 21, col_o = 28
+row_o = 21, col_o = 29
+row_o = 21, col_o = 30
+row_o = 21, col_o = 31
+row_o = 22, col_o = 0
+row_o = 22, col_o = 1
+row_o = 22, col_o = 2
+row_o = 22, col_o = 3
+row_o = 22, col_o = 4
+row_o = 22, col_o = 5
+row_o = 22, col_o = 6
+row_o = 22, col_o = 7
+row_o = 1, col_o = 0
+row_o = 1, col_o = 1
+row_o = 1, col_o = 2
+row_o = 1, col_o = 3
+row_o = 1, col_o = 4
+row_o = 1, col_o = 5
+row_o = 1, col_o = 6
+row_o = 1, col_o = 7
+row_o = 1, col_o = 8
+row_o = 1, col_o = 9
+row_o = 1, col_o = 10
+row_o = 1, col_o = 11
+row_o = 1, col_o = 12
+row_o = 1, col_o = 13
+row_o = 1, col_o = 14
+row_o = 1, col_o = 15
+row_o = 1, col_o = 16
+row_o = 1, col_o = 17
+row_o = 1, col_o = 18
+row_o = 1, col_o = 19
+row_o = 1, col_o = 20
+row_o = 1, col_o = 21
+row_o = 1, col_o = 22
+row_o = 1, col_o = 23
+row_o = 1, col_o = 24
+row_o = 1, col_o = 25
+row_o = 1, col_o = 26
+row_o = 1, col_o = 27
+row_o = 4, col_o = 16
+row_o = 4, col_o = 17
+row_o = 4, col_o = 18
+row_o = 4, col_o = 19
+row_o = 4, col_o = 20
+row_o = 4, col_o = 21
+row_o = 4, col_o = 22
+row_o = 4, col_o = 23
+row_o = 4, col_o = 24
+row_o = 4, col_o = 25
+row_o = 4, col_o = 26
+row_o = 4, col_o = 27
+row_o = 4, col_o = 28
+row_o = 4, col_o = 29
+row_o = 4, col_o = 30
+row_o = 4, col_o = 31
+row_o = 5, col_o = 0
+row_o = 5, col_o = 1
+row_o = 5, col_o = 2
+row_o = 5, col_o = 3
+row_o = 5, col_o = 4
+row_o = 5, col_o = 5
+row_o = 5, col_o = 6
+row_o = 5, col_o = 7
+row_o = 5, col_o = 8
+row_o = 5, col_o = 9
+row_o = 5, col_o = 10
+row_o = 5, col_o = 11
+row_o = 11, col_o = 20
+row_o = 11, col_o = 21
+row_o = 11, col_o = 22
+row_o = 11, col_o = 23
+row_o = 11, col_o = 24
+row_o = 11, col_o = 25
+row_o = 11, col_o = 26
+row_o = 11, col_o = 27
+row_o = 11, col_o = 28
+row_o = 11, col_o = 29
+row_o = 11, col_o = 30
+row_o = 11, col_o = 31
+row_o = 12, col_o = 0
+row_o = 12, col_o = 1
+row_o = 12, col_o = 2
+row_o = 12, col_o = 3
+row_o = 12, col_o = 4
+row_o = 12, col_o = 5
+row_o = 12, col_o = 6
+row_o = 12, col_o = 7
+row_o = 12, col_o = 8
+row_o = 12, col_o = 9
+row_o = 12, col_o = 10
+row_o = 12, col_o = 11
+row_o = 12, col_o = 12
+row_o = 12, col_o = 13
+row_o = 12, col_o = 14
+row_o = 12, col_o = 15
+row_o = 27, col_o = 20
+row_o = 27, col_o = 21
+row_o = 27, col_o = 22
+row_o = 27, col_o = 23
+row_o = 27, col_o = 24
+row_o = 27, col_o = 25
+row_o = 27, col_o = 26
+row_o = 27, col_o = 27
+row_o = 27, col_o = 28
+row_o = 27, col_o = 29
+row_o = 27, col_o = 30
+row_o = 27, col_o = 31
+row_o = 6, col_o = 8
+row_o = 6, col_o = 9
+row_o = 6, col_o = 10
+row_o = 6, col_o = 11
+row_o = 6, col_o = 12
+row_o = 6, col_o = 13
+row_o = 6, col_o = 14
+row_o = 6, col_o = 15
+row_o = 6, col_o = 16
+row_o = 6, col_o = 17
+row_o = 6, col_o = 18
+row_o = 6, col_o = 19
+row_o = 6, col_o = 20
+row_o = 6, col_o = 21
+row_o = 6, col_o = 22
+row_o = 6, col_o = 23
+row_o = 6, col_o = 24
+row_o = 6, col_o = 25
+row_o = 6, col_o = 26
+row_o = 6, col_o = 27
+row_o = 6, col_o = 28
+row_o = 6, col_o = 29
+row_o = 6, col_o = 30
+row_o = 6, col_o = 31
+row_o = 7, col_o = 0
+row_o = 7, col_o = 1
+row_o = 7, col_o = 2
+row_o = 7, col_o = 3
+row_o = 24, col_o = 0
+row_o = 24, col_o = 1
+row_o = 24, col_o = 2
+row_o = 24, col_o = 3
+row_o = 24, col_o = 4
+row_o = 24, col_o = 5
+row_o = 24, col_o = 6
+row_o = 24, col_o = 7
+row_o = 24, col_o = 8
+row_o = 24, col_o = 9
+row_o = 24, col_o = 10
+row_o = 24, col_o = 11
+row_o = 24, col_o = 12
+row_o = 24, col_o = 13
+row_o = 24, col_o = 14
+row_o = 24, col_o = 15
+row_o = 24, col_o = 16
+row_o = 24, col_o = 17
+row_o = 24, col_o = 18
+row_o = 24, col_o = 19
+row_o = 24, col_o = 20
+row_o = 24, col_o = 21
+row_o = 24, col_o = 22
+row_o = 24, col_o = 23
+row_o = 24, col_o = 24
+row_o = 24, col_o = 25
+row_o = 24, col_o = 26
+row_o = 24, col_o = 27
+row_o = 24, col_o = 28
+row_o = 24, col_o = 29
+row_o = 24, col_o = 30
+row_o = 24, col_o = 31
+row_o = 7, col_o = 4
+row_o = 7, col_o = 5
+row_o = 7, col_o = 6
+row_o = 7, col_o = 7
+row_o = 7, col_o = 8
+row_o = 7, col_o = 9
+row_o = 7, col_o = 10
+row_o = 7, col_o = 11
+row_o = 7, col_o = 12
+row_o = 7, col_o = 13
+row_o = 7, col_o = 14
+row_o = 7, col_o = 15
+row_o = 7, col_o = 16
+row_o = 7, col_o = 17
+row_o = 7, col_o = 18
+row_o = 7, col_o = 19
+row_o = 7, col_o = 20
+row_o = 7, col_o = 21
+row_o = 7, col_o = 22
+row_o = 7, col_o = 23
+row_o = 7, col_o = 24
+row_o = 7, col_o = 25
+row_o = 7, col_o = 26
+row_o = 7, col_o = 27
+row_o = 7, col_o = 28
+row_o = 7, col_o = 29
+row_o = 7, col_o = 30
+row_o = 7, col_o = 31
+row_o = 3, col_o = 20
+row_o = 3, col_o = 21
+row_o = 3, col_o = 22
+row_o = 3, col_o = 23
+row_o = 3, col_o = 24
+row_o = 3, col_o = 25
+row_o = 3, col_o = 26
+row_o = 3, col_o = 27
+row_o = 3, col_o = 28
+row_o = 3, col_o = 29
+row_o = 3, col_o = 30
+row_o = 3, col_o = 31
+row_o = 4, col_o = 0
+row_o = 4, col_o = 1
+row_o = 4, col_o = 2
+row_o = 4, col_o = 3
+row_o = 4, col_o = 4
+row_o = 4, col_o = 5
+row_o = 4, col_o = 6
+row_o = 4, col_o = 7
+row_o = 4, col_o = 8
+row_o = 4, col_o = 9
+row_o = 4, col_o = 10
+row_o = 4, col_o = 11
+row_o = 4, col_o = 12
+row_o = 4, col_o = 13
+row_o = 4, col_o = 14
+row_o = 4, col_o = 15
+row_o = 5, col_o = 12
+row_o = 5, col_o = 13
+row_o = 5, col_o = 14
+row_o = 5, col_o = 15
+row_o = 5, col_o = 16
+row_o = 5, col_o = 17
+row_o = 5, col_o = 18
+row_o = 5, col_o = 19
+row_o = 5, col_o = 20
+row_o = 5, col_o = 21
+row_o = 5, col_o = 22
+row_o = 5, col_o = 23
+row_o = 5, col_o = 24
+row_o = 5, col_o = 25
+row_o = 5, col_o = 26
+row_o = 5, col_o = 27
+row_o = 5, col_o = 28
+row_o = 5, col_o = 29
+row_o = 5, col_o = 30
+row_o = 5, col_o = 31
+row_o = 6, col_o = 0
+row_o = 6, col_o = 1
+row_o = 6, col_o = 2
+row_o = 6, col_o = 3
+row_o = 6, col_o = 4
+row_o = 6, col_o = 5
+row_o = 6, col_o = 6
+row_o = 6, col_o = 7
+row_o = 18, col_o = 24
+row_o = 18, col_o = 25
+row_o = 18, col_o = 26
+row_o = 18, col_o = 27
+row_o = 18, col_o = 28
+row_o = 18, col_o = 29
+row_o = 18, col_o = 30
+row_o = 18, col_o = 31
+row_o = 19, col_o = 0
+row_o = 19, col_o = 1
+row_o = 19, col_o = 2
+row_o = 19, col_o = 3
+row_o = 19, col_o = 4
+row_o = 19, col_o = 5
+row_o = 19, col_o = 6
+row_o = 19, col_o = 7
+row_o = 19, col_o = 8
+row_o = 19, col_o = 9
+row_o = 19, col_o = 10
+row_o = 19, col_o = 11
+row_o = 19, col_o = 12
+row_o = 19, col_o = 13
+row_o = 19, col_o = 14
+row_o = 19, col_o = 15
+row_o = 19, col_o = 16
+row_o = 19, col_o = 17
+row_o = 19, col_o = 18
+row_o = 19, col_o = 19
+row_o = 22, col_o = 8
+row_o = 22, col_o = 9
+row_o = 22, col_o = 10
+row_o = 22, col_o = 11
+row_o = 22, col_o = 12
+row_o = 22, col_o = 13
+row_o = 22, col_o = 14
+row_o = 22, col_o = 15
+row_o = 22, col_o = 16
+row_o = 22, col_o = 17
+row_o = 22, col_o = 18
+row_o = 22, col_o = 19
+row_o = 22, col_o = 20
+row_o = 22, col_o = 21
+row_o = 22, col_o = 22
+row_o = 22, col_o = 23
+row_o = 22, col_o = 24
+row_o = 22, col_o = 25
+row_o = 22, col_o = 26
+row_o = 22, col_o = 27
+row_o = 22, col_o = 28
+row_o = 22, col_o = 29
+row_o = 22, col_o = 30
+row_o = 22, col_o = 31
+row_o = 23, col_o = 0
+row_o = 23, col_o = 1
+row_o = 23, col_o = 2
+row_o = 23, col_o = 3
+row_o = 17, col_o = 0
+row_o = 17, col_o = 1
+row_o = 17, col_o = 2
+row_o = 17, col_o = 3
+row_o = 17, col_o = 4
+row_o = 17, col_o = 5
+row_o = 17, col_o = 6
+row_o = 17, col_o = 7
+row_o = 17, col_o = 8
+row_o = 17, col_o = 9
+row_o = 17, col_o = 10
+row_o = 17, col_o = 11
+row_o = 17, col_o = 12
+row_o = 17, col_o = 13
+row_o = 17, col_o = 14
+row_o = 17, col_o = 15
+row_o = 17, col_o = 16
+row_o = 17, col_o = 17
+row_o = 17, col_o = 18
+row_o = 17, col_o = 19
+row_o = 17, col_o = 20
+row_o = 17, col_o = 21
+row_o = 17, col_o = 22
+row_o = 17, col_o = 23
+row_o = 17, col_o = 24
+row_o = 17, col_o = 25
+row_o = 17, col_o = 26
+row_o = 17, col_o = 27
+row_o = 20, col_o = 16
+row_o = 20, col_o = 17
+row_o = 20, col_o = 18
+row_o = 20, col_o = 19
+row_o = 20, col_o = 20
+row_o = 20, col_o = 21
+row_o = 20, col_o = 22
+row_o = 20, col_o = 23
+row_o = 20, col_o = 24
+row_o = 20, col_o = 25
+row_o = 20, col_o = 26
+row_o = 20, col_o = 27
+row_o = 20, col_o = 28
+row_o = 20, col_o = 29
+row_o = 20, col_o = 30
+row_o = 20, col_o = 31
+row_o = 21, col_o = 0
+row_o = 21, col_o = 1
+row_o = 21, col_o = 2
+row_o = 21, col_o = 3
+row_o = 21, col_o = 4
+row_o = 21, col_o = 5
+row_o = 21, col_o = 6
+row_o = 21, col_o = 7
+row_o = 21, col_o = 8
+row_o = 21, col_o = 9
+row_o = 21, col_o = 10
+row_o = 21, col_o = 11
+row_o = 2, col_o = 24
+row_o = 2, col_o = 25
+row_o = 2, col_o = 26
+row_o = 2, col_o = 27
+row_o = 2, col_o = 28
+row_o = 2, col_o = 29
+row_o = 2, col_o = 30
+row_o = 2, col_o = 31
+row_o = 3, col_o = 0
+row_o = 3, col_o = 1
+row_o = 3, col_o = 2
+row_o = 3, col_o = 3
+row_o = 3, col_o = 4
+row_o = 3, col_o = 5
+row_o = 3, col_o = 6
+row_o = 3, col_o = 7
+row_o = 3, col_o = 8
+row_o = 3, col_o = 9
+row_o = 3, col_o = 10
+row_o = 3, col_o = 11
+row_o = 3, col_o = 12
+row_o = 3, col_o = 13
+row_o = 3, col_o = 14
+row_o = 3, col_o = 15
+row_o = 3, col_o = 16
+row_o = 3, col_o = 17
+row_o = 3, col_o = 18
+row_o = 3, col_o = 19
+row_o = 9, col_o = 0
+row_o = 9, col_o = 1
+row_o = 9, col_o = 2
+row_o = 9, col_o = 3
+row_o = 9, col_o = 4
+row_o = 9, col_o = 5
+row_o = 9, col_o = 6
+row_o = 9, col_o = 7
+row_o = 9, col_o = 8
+row_o = 9, col_o = 9
+row_o = 9, col_o = 10
+row_o = 9, col_o = 11
+row_o = 9, col_o = 12
+row_o = 9, col_o = 13
+row_o = 9, col_o = 14
+row_o = 9, col_o = 15
+row_o = 9, col_o = 16
+row_o = 9, col_o = 17
+row_o = 9, col_o = 18
+row_o = 9, col_o = 19
+row_o = 9, col_o = 20
+row_o = 9, col_o = 21
+row_o = 9, col_o = 22
+row_o = 9, col_o = 23
+row_o = 9, col_o = 24
+row_o = 9, col_o = 25
+row_o = 9, col_o = 26
+row_o = 9, col_o = 27
+row_o = 25, col_o = 28
+row_o = 25, col_o = 29
+row_o = 25, col_o = 30
+row_o = 25, col_o = 31
+row_o = 26, col_o = 0
+row_o = 26, col_o = 1
+row_o = 26, col_o = 2
+row_o = 26, col_o = 3
+row_o = 26, col_o = 4
+row_o = 26, col_o = 5
+row_o = 26, col_o = 6
+row_o = 26, col_o = 7
+row_o = 26, col_o = 8
+row_o = 26, col_o = 9
+row_o = 26, col_o = 10
+row_o = 26, col_o = 11
+row_o = 26, col_o = 12
+row_o = 26, col_o = 13
+row_o = 26, col_o = 14
+row_o = 26, col_o = 15
+row_o = 26, col_o = 16
+row_o = 26, col_o = 17
+row_o = 26, col_o = 18
+row_o = 26, col_o = 19
+row_o = 26, col_o = 20
+row_o = 26, col_o = 21
+row_o = 26, col_o = 22
+row_o = 26, col_o = 23
+row_o = 13, col_o = 12
+row_o = 13, col_o = 13
+row_o = 13, col_o = 14
+row_o = 13, col_o = 15
+row_o = 13, col_o = 16
+row_o = 13, col_o = 17
+row_o = 13, col_o = 18
+row_o = 13, col_o = 19
+row_o = 13, col_o = 20
+row_o = 13, col_o = 21
+row_o = 13, col_o = 22
+row_o = 13, col_o = 23
+row_o = 13, col_o = 24
+row_o = 13, col_o = 25
+row_o = 13, col_o = 26
+row_o = 13, col_o = 27
+row_o = 13, col_o = 28
+row_o = 13, col_o = 29
+row_o = 13, col_o = 30
+row_o = 13, col_o = 31
+row_o = 14, col_o = 0
+row_o = 14, col_o = 1
+row_o = 14, col_o = 2
+row_o = 14, col_o = 3
+row_o = 14, col_o = 4
+row_o = 14, col_o = 5
+row_o = 14, col_o = 6
+row_o = 14, col_o = 7
+row_o = 14, col_o = 8
+row_o = 14, col_o = 9
+row_o = 14, col_o = 10
+row_o = 14, col_o = 11
+row_o = 14, col_o = 12
+row_o = 14, col_o = 13
+row_o = 14, col_o = 14
+row_o = 14, col_o = 15
+row_o = 14, col_o = 16
+row_o = 14, col_o = 17
+row_o = 14, col_o = 18
+row_o = 14, col_o = 19
+row_o = 14, col_o = 20
+row_o = 14, col_o = 21
+row_o = 14, col_o = 22
+row_o = 14, col_o = 23
+row_o = 14, col_o = 24
+row_o = 14, col_o = 25
+row_o = 14, col_o = 26
+row_o = 14, col_o = 27
+row_o = 14, col_o = 28
+row_o = 14, col_o = 29
+row_o = 14, col_o = 30
+row_o = 14, col_o = 31
+row_o = 15, col_o = 0
+row_o = 15, col_o = 1
+row_o = 15, col_o = 2
+row_o = 15, col_o = 3
+Time 5.65 ms,  0.00 GFLOPS
+1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 
