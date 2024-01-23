@@ -59,21 +59,89 @@ __global__ void reduce2(T *in, T *out) {
     if (tx == 0) out[blockIdx.x] = sdata[0];
 }
 
-template<typename T, size_t N, size_t blockThreadNums>
+template<typename T, size_t N>
 __global__ void reduce3(T *in, T *out) {
-    __shared__ T sdata[blockThreadNums];
+    __shared__ T sdata[blockThreadNum];
     int tx = threadIdx.x;
     int i = blockIdx.x*(2*blockDim.x) + threadIdx.x;
     if (i < N) sdata[tx] = in[i];
     else sdata[tx] = 0;
     if (i + blockDim.x < N) sdata[tx] += in[i + blockDim.x];
     __syncthreads();
-    for (int s = blockThreadNums/2; s > 0; s >>= 1) {
+    for (int s = blockThreadNum/2; s > 0; s >>= 1) {
         if (tx < s) {
             sdata[tx] += sdata[tx + s];
         }
         __syncthreads();
     }
+    if (tx == 0) out[blockIdx.x] = sdata[0];
+}
+
+template<typename T>
+__device__ void warpReduce(volatile T *sdata, int tx) {
+    sdata[tx] += sdata[tx + 32];
+    sdata[tx] += sdata[tx + 16];
+    sdata[tx] += sdata[tx + 8];
+    sdata[tx] += sdata[tx + 4];
+    sdata[tx] += sdata[tx + 2];
+    sdata[tx] += sdata[tx + 1];
+}
+template<typename T, size_t N>
+__global__ void reduce4(T *in, T *out) {
+    __shared__ T sdata[blockThreadNum];
+    int tx = threadIdx.x;
+    int i = blockIdx.x*(2*blockDim.x) + threadIdx.x;
+    if (i < N) sdata[tx] = in[i];
+    else sdata[tx] = 0;
+    if (i + blockDim.x < N) sdata[tx] += in[i + blockDim.x];
+    __syncthreads();
+    for (int s = blockThreadNum/2; s > 32; s >>= 1) {
+        if (tx < s) {
+            sdata[tx] += sdata[tx + s];
+        }
+        __syncthreads();
+    }
+    if (tx < 32) {
+        warpReduce<T>(sdata, tx);
+    }
+    if (tx == 0) out[blockIdx.x] = sdata[0];
+}
+template<typename T, size_t blocksize>
+__device__ void warpReduce2(volatile  T *sdata, int tx) {
+    if (blocksize >= 64) sdata[tx] += sdata[tx + 32];
+    if (blocksize >= 32) sdata[tx] += sdata[tx + 16];
+    if (blocksize >= 16) sdata[tx] += sdata[tx + 8];
+    if (blocksize >= 8) sdata[tx] += sdata[tx + 4];
+    if (blocksize >= 4) sdata[tx] += sdata[tx + 2];
+    if (blocksize >= 2) sdata[tx] += sdata[tx + 1];
+}
+
+template<typename T, size_t N, size_t blocksize>
+__global__ void reduce5(T *in, T *out) {
+    __shared__ T sdata[blockThreadNum];
+    int tx = threadIdx.x;
+    int i = blockIdx.x * (2*blockDim.x) + threadIdx.x;
+    if (i < N) sdata[tx] = in[i];
+    else sdata[tx] = 0;
+    if (i + blockDim.x < N) sdata[tx] += in[i + blockDim.x];
+    __syncthreads();
+    if (blocksize >= 1024) {
+        if (tx < 512) sdata[tx] += sdata[tx + 512];
+        __syncthreads();
+    }
+    if (blocksize >= 512) {
+        if (tx < 256) sdata[tx] += sdata[tx + 256];
+        __syncthreads();
+    }
+    if (blocksize >= 256) {
+        if (tx < 128) sdata[tx] += sdata[tx + 128];
+        __syncthreads();
+    }
+    if (blocksize >= 128) {
+        if (tx < 64) sdata[tx] += sdata[tx + 64];
+        __syncthreads();
+    }
+    if (tx < 32) warpReduce2<T, blocksize>(sdata, tx);
     if (tx == 0) out[blockIdx.x] = sdata[0];
 }
 
@@ -123,7 +191,7 @@ int main() {
     CUDA_CHECK(cudaMalloc((void **)&d_out, sizeof(T)*gridblock));
     CUDA_CHECK(cudaMemcpy(d_in, h_in, sizeof(T)*N, cudaMemcpyHostToDevice));
 
-    
+
     cudaEvent_t start, stop;
     cudaEventCreate(&start);
     cudaEventCreate(&stop);
@@ -156,8 +224,25 @@ int main() {
     CUDA_CHECK(cudaMemcpy(h_out, d_out, sizeof(T)*gridblock, cudaMemcpyDeviceToHost));
 
     cudaEventRecord(start);
-    #define blockThreadNums (blockThreadNum/2)
-    reduce3<T, N, blockThreadNums><<<gridblock, blockThreadNums>>>(d_in, d_out);
+    // #define blockThreadNums (blockThreadNum/2)
+    #define gridblocks (gridblock/2)
+    reduce3<T, N><<<gridblocks, blockThreadNum>>>(d_in, d_out);
+    cudaEventRecord(stop);
+    cudaEventSynchronize(stop);
+    cudaEventElapsedTime(&millseconds, start, stop);
+    printf("Time %.2f ms,  %.2f GB/s\n",millseconds,  N*sizeof(T)*1000.0/1024/1024/1024/millseconds);
+    CUDA_CHECK(cudaMemcpy(h_out, d_out, sizeof(T)*gridblock, cudaMemcpyDeviceToHost));
+
+    cudaEventRecord(start);
+    reduce4<T, N><<<gridblocks, blockThreadNum>>>(d_in, d_out);
+    cudaEventRecord(stop);
+    cudaEventSynchronize(stop);
+    cudaEventElapsedTime(&millseconds, start, stop);
+    printf("Time %.2f ms,  %.2f GB/s\n",millseconds,  N*sizeof(T)*1000.0/1024/1024/1024/millseconds);
+    CUDA_CHECK(cudaMemcpy(h_out, d_out, sizeof(T)*gridblock, cudaMemcpyDeviceToHost));
+
+    cudaEventRecord(start);
+    reduce5<T, N, blockThreadNum><<<gridblocks, blockThreadNum>>>(d_in, d_out);
     cudaEventRecord(stop);
     cudaEventSynchronize(stop);
     cudaEventElapsedTime(&millseconds, start, stop);
@@ -165,7 +250,7 @@ int main() {
     CUDA_CHECK(cudaMemcpy(h_out, d_out, sizeof(T)*gridblock, cudaMemcpyDeviceToHost));
 
     T ss = 0;
-    for (int i = 0; i < gridblock; i++) ss += h_out[i];
+    for (int i = 0; i < gridblocks; i++) ss += h_out[i];
     printf("%d %d\n", s, ss);
     // print_arr<T, gridblock>(h_out);
 
